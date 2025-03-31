@@ -1,0 +1,39 @@
+#login{
+    display: flex;
+    height:630px;
+    align-items: center;
+}
+
+
+#login h2{
+    color: rgb(47, 255, 78);
+    text-align: center;
+}
+#login P{
+    text-align: center;
+    margin-top: 30px;
+}
+#login  p a{
+    text-decoration: none;
+ 
+}
+
+#header button{
+float: right;
+
+}
+
+#header{
+    background-color: lightgreen;
+    padding:15px,0px;
+}
+
+#footer{
+    background-color: lightblue;
+    padding: 15px,0px;
+}
+
+
+#mid{
+    text-align: center;
+}
