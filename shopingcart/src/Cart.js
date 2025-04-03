@@ -121,7 +121,7 @@ function Cart() {
                                 <tabel className='table table-hover'>
                                     <thead>
                                         <tr>
-                                            <th>s. no</th>
+                                            <th>s. nossssssss</th>
                                             <th>product name</th>
                                             <th>product quantity</th>
                                             <th>price</th>
